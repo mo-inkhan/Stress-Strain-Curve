@@ -2,7 +2,7 @@
 ==============
 
 Author: **Moin Khan ([@Mo-inKhan](https://github.com/Mo-inKhan))**   
-Author URL: **[Linkedin](https://www.linkedin.com/in/mo-inkhan/)**
+Author URL: **[LinkedIn](https://www.linkedin.com/in/mo-inkhan/)**
 
 
 
