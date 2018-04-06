@@ -30,4 +30,6 @@ or add the feature and create a pull request. That's it!
 Thanks!
 
 
+
+## LICENSE
 Stress-Strain-Curve is released under the MIT License. Check out the full license **[here](/LICENSE)**.
