@@ -98,11 +98,3 @@ ax.set_ylim(ymin=0)
 
 #display graph
 plt.show()
-
-print(Force)
-print(Elongation)
-print(Stress)
-print(Strain)
-print(Stress_True)
-print(Strain_True)
-print(Area)
