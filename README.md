@@ -2,7 +2,7 @@
 ==============
 
 Author: **Moin Khan ([@Mo-inKhan](https://github.com/Mo-inKhan))**   
-Author URL: **[Linkedin](https://www.linkedin.com/in/mo-inkhan/)**
+Author URL: **[LinkedIn](https://www.linkedin.com/in/mo-inkhan/)**
 
 
 
@@ -15,6 +15,7 @@ Author URL: **[Linkedin](https://www.linkedin.com/in/mo-inkhan/)**
 
 ### How to Use
 - Install a Python compiler
+- Open Curve.py
 - Install the required Python packages
 - Adjust the data as required
 - Run the program
@@ -29,4 +30,6 @@ or add the feature and create a pull request. That's it!
 Thanks!
 
 
-Stress-Strain-Curve is released under the MIT License. Check out the full license **[here](/License)**.
+
+## LICENSE
+Stress-Strain-Curve is released under the MIT License. Check out the full license **[here](/LICENSE)**.
