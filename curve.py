@@ -58,7 +58,7 @@ Modulus = Slope/math.pow(10,3)
 #define UTS
 uts = max(Stress)
 #define Failure Stress
-failure_stress = max(Stress)
+failure_stress = f2(max(Strain))
 
 #plot UTS Line
 plt.axhline(y=uts, ls=':', c='cyan')
@@ -105,7 +105,6 @@ ax.set_ylim(ymin=0)
 
 #display graph
 plt.show()
-<<<<<<< HEAD
 
 #print(Force)
 #print(Elongation)
@@ -115,5 +114,3 @@ plt.show()
 #print(Strain_True)
 #print(Area)
 #
-=======
->>>>>>> 05a2cad7bc0d9e1b2508deeacdb8188459c32cdd
