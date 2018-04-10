@@ -1,3 +1,9 @@
+'''
+Developed by:
+Moin Khan
+Python 3.0
+'''
+
 import matplotlib.pyplot as plt
 import numpy as np
 import math
